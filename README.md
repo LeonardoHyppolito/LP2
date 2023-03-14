@@ -1,1 +1,1 @@
-# LPO - Segundo Semestre 
+# Linguagem de Programação 2 
